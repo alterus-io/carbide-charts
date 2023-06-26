@@ -391,7 +391,7 @@ entries:
     appVersion: v2.7.3
     created: "2023-04-25T19:29:08.409532186Z"
     description: Install Rancher Server to manage Kubernetes clusters across providers.
-    digest: bd3d6eb9706ffc0bf3de6bc03480439b4f1b365bfa423e4aac35b029baad46fa
+    digest: a304fa364034ce2a978568247332ea8aa0272c4597b7b367a995482a6c70659f
     home: https://rancher.com
     icon: https://github.com/rancher/ui/blob/master/public/assets/images/logos/welcome-cow.svg
     keywords:
